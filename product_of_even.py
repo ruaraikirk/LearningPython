@@ -1,5 +1,5 @@
 # A Python program that will ask the user for a number, and print the product of all EVEN numbers from 1
-# to the number the enter inclusive. Your program should also print how many numbers were multiplied.
+# to the number the enter inclusive. The program will also print how many numbers were multiplied.
 
 # Ask for input
 input_int = int(input('Please enter an integer number: '))
