@@ -1,4 +1,4 @@
-# Lab Test 2 - Question 2
+# replace_all function to replace instances of a word(s) with another string value
 # Use of replace_all function, with reading and writing to files.
 
 def replace_all(string,list1,list2):
