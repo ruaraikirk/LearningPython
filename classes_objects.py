@@ -1,5 +1,5 @@
-# Exercise 5: Write a class Student. Every student should have a name, student number and a list of marks
-# (implemented as a python list) Include any appropriate methods, and a method to calculate the average mark.
+# Write a class Student. Every student should have a name, student number and a list of marks
+# (implemented as a python list). Include any appropriate methods, and a method to calculate the average mark.
 
 class Student:
     def __init__(self, name, studentID, marks):
